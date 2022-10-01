@@ -1,6 +1,6 @@
 Package: BSPBSS
 Title: Bayesian Spatial Blind Source Separation
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: c( person("Ben", "Wu", 
               email = "wuben@ruc.edu.cn", 
               role = c("aut", "cre")),
@@ -23,10 +23,10 @@ SystemRequirements: GNU make
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2022-09-18 02:41:43 UTC; ben
+Packaged: 2022-10-01 14:26:03 UTC; ben
 Author: Ben Wu [aut, cre],
   Ying Guo [aut],
   Jian Kang [aut]
 Maintainer: Ben Wu <wuben@ruc.edu.cn>
 Repository: CRAN
-Date/Publication: 2022-09-18 03:06:01 UTC
+Date/Publication: 2022-10-01 14:40:02 UTC
