@@ -7,7 +7,8 @@
 init_bspbss(
   X,
   coords,
-  standardize = TRUE,
+  rescale = TRUE,
+  center = FALSE,
   q = 2,
   dens = 0.5,
   ker_par = c(0.05, 20),
@@ -20,7 +21,9 @@ init_bspbss(
 
 \item{coords}{Cordinate matrix with p rows (voxel) and d columns (dimension).}
 
-\item{standardize}{If TRUE, standarize each row of X.}
+\item{rescale}{If TRUE, rows of X are rescaled to have unit variance.}
+
+\item{center}{If TRUE, rows of X are mean-centered.}
 
 \item{q}{Number of latent sources.}
 

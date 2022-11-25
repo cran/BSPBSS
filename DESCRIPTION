@@ -1,6 +1,6 @@
 Package: BSPBSS
 Title: Bayesian Spatial Blind Source Separation
-Version: 1.0.4
+Version: 1.0.5
 Authors@R: c( person("Ben", "Wu", 
               email = "wuben@ruc.edu.cn", 
               role = c("aut", "cre")),
@@ -14,19 +14,18 @@ Description: Gibbs sampling for Bayesian spatial blind source separation (BSP-BS
 Depends: R (>= 3.4.0), movMF
 License: GPL (>= 3)
 Encoding: UTF-8
-RoxygenNote: 7.2.0
+RoxygenNote: 7.2.1
 LinkingTo: Rcpp, RcppArmadillo
 Imports: rstiefel, Rcpp, ica, glmnet, gplots, BayesGPfit, svd,
-        RandomFieldsUtils, neurobase, oro.nifti, gridExtra, ggplot2,
-        gtools
+        neurobase, oro.nifti, gridExtra, ggplot2, gtools
 SystemRequirements: GNU make
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2022-10-01 14:26:03 UTC; ben
+Packaged: 2022-11-25 02:01:11 UTC; ben
 Author: Ben Wu [aut, cre],
   Ying Guo [aut],
   Jian Kang [aut]
 Maintainer: Ben Wu <wuben@ruc.edu.cn>
 Repository: CRAN
-Date/Publication: 2022-10-01 14:40:02 UTC
+Date/Publication: 2022-11-25 07:20:06 UTC
