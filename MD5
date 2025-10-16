@@ -1,4 +1,4 @@
-011a89283f2326685d80f9f388781c80 *DESCRIPTION
+4af952ac22adc4c733ed0512de9fcc3c *DESCRIPTION
 f0310ed0a470f10ba3fc37cb4de5728b *NAMESPACE
 765b1f4875c1d7e611c6539a979c8e7a *R/ICA_imax.R
 9c9bae4a0aee8d1e48008a289f7bbb7e *R/RcppExports.R
@@ -14,7 +14,7 @@ b45f9f8e428231240023ab6083c1740c *R/output_nii.R
 c2be69b8ff5514b40d269487650b68f2 *build/vignette.rds
 bc383adc13395f1049cab1082915e05e *inst/doc/BSPBSS-vignette.R
 d2b5eb1611f5c31a37b0cbad9da4c41c *inst/doc/BSPBSS-vignette.Rmd
-ab3713c605c52eb18ec4de43dd487a1c *inst/doc/BSPBSS-vignette.html
+438e13d75952d9c643cb8b4b68d40c00 *inst/doc/BSPBSS-vignette.html
 f780e7a0439a7276d1dbf4452fd91477 *man/figures/README-unnamed-chunk-10-1.png
 0e14d71394b9f36b9e7da3dc08f597a8 *man/figures/README-unnamed-chunk-11-1.png
 7a8f81937eef0e76c6676f8227a6458d *man/figures/README-unnamed-chunk-13-1.png
@@ -34,8 +34,8 @@ bee9301a4cffc48ad5b20cbc194972f1 *man/mcmc_bspbss.Rd
 d34d9a9fe5f2341c7f4c7bfb4ae45f10 *man/pre_nii.Rd
 b26234842d84e032f538475f0464a37b *man/sim_2Dimage.Rd
 08b8f5b4a506a3dd6b912c65714d9b27 *man/sum_mcmc_bspbss.Rd
-3b78859359670bb39effe4b35f061fd9 *src/Makevars
-1cab078a99d094714c18b2c141ebec33 *src/Makevars.win
+ae10258f5f7a8816d51fb5a20c33a3b7 *src/Makevars
+3ecd2f3bbe61109b85760271c445ed47 *src/Makevars.win
 a79d0feb34ad54286836de8a5fd77513 *src/Rcpp.cpp
 47798e0bd80781586a899a90cd18bb41 *src/RcppExports.cpp
 d2b5eb1611f5c31a37b0cbad9da4c41c *vignettes/BSPBSS-vignette.Rmd
